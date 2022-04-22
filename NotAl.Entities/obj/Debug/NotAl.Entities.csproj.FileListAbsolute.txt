@@ -1,0 +1,14 @@
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\bin\Debug\NotAl.Entities.dll
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\bin\Debug\NotAl.Entities.pdb
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\bin\Debug\NotAl.Core.dll
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\bin\Debug\NotAl.Core.pdb
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\obj\Debug\NotAl.Entities.csproj.AssemblyReference.cache
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\obj\Debug\NotAl.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\obj\Debug\NotAl.Entities.csproj.CopyComplete
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\obj\Debug\NotAl.Entities.dll
+C:\Users\Adem\source\repos\NotAl\NotAl.Entities\obj\Debug\NotAl.Entities.pdb
