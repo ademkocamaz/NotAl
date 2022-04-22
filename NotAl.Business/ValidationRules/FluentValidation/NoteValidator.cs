@@ -13,6 +13,8 @@ namespace NotAl.Business.ValidationRules.FluentValidation
         public NoteValidator()
         {
             RuleFor(n => n.Title).NotEmpty().WithMessage("Başlık boş olamaz");
+            RuleFor(n => n.Title).Length(0, 1000).WithMessage("Başlık en fazla 1000 karakter olmalı");
+            RuleFor(n => n.Detail).Length(0, 5000).WithMessage("İçerik en fazla 5000 karakter olmalı");
         }
 
     }
